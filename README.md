@@ -1,2 +1,2 @@
 # Nycu_FinalProject_SoftwareTesting
-我的Nycu課程期末專題
+我的Nycu課程期末專題(Group29)
